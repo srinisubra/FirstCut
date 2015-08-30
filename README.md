@@ -1,2 +1,2 @@
 # FirstCut
-FirstCutSocial
+FirstCutSocial - A Simple App 
